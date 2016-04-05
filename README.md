@@ -1,7 +1,7 @@
 # ios-decal-proj4
 This is for iOS-decal
 
-App Name: Guess Correlation Plus
+Heading 1: App Name: Guess Correlation Plus
 Authors: 
 • Mingjian Lu
 Purpose:
