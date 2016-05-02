@@ -7,7 +7,7 @@
 //
 
 // Thanks for William Falcon @ https://medium.com/swift-programming/animating-a-smiley-face-across-the-screen-in-swift-dc808c7ca20c#.pbvvpixnk
-// Thanks for https://github.com/erkekin/EERegression
+// Thanks for https://github.com/erkekin/EERegression (Not used here)
 // Thanks for https://github.com/vikmeup/SCLAlertView-Swift
 
 import UIKit

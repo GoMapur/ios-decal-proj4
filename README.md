@@ -11,6 +11,7 @@ website: http://guessthecorrelation.com/
 ## Features:
 - Cute game interface
 - Might implement online fighting system
+- This is game is still under development, thus plz wait for more things to come!
 
 ## Control Flow:
 - User at an starting UI
@@ -31,20 +32,21 @@ website: http://guessthecorrelation.com/
 The Implementation is intuitive thus I want to add some new data games in this app.
 
 ## Model:
-- GraphDot
-- Graph
-- Formula
+- DataKit
 
 ## View:
-- Main menu
-- Find opponent
-- Game view
-- Online Game view
-- Option view
+- MainMenuStartButton
+- MainMenuBackgroundView
+- GridView
+- ScatterPlotView
+- LineAnimationView
 
 ## Controller:
-- Main menu Controller
-- Find opponent Controller
-- Game view Controller
-- Online Game view Controller
-- Option view Controller
+- MainMenuViewController
+- LinearGUessCorrelationGameViewController
+
+## Credits:
+- σ (sigma) - statistics library written in Swift for calculation of stats data
+- ZFRippleButton for great looking button effect
+- SCLAlertView for nice pop up window
+- ASValueTrackingSlider for nice looking slider
