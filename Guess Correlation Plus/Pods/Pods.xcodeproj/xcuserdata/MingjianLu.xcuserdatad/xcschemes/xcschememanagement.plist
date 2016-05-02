@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ASValueTrackingSlider.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Charts.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Guess Correlation Plus.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SCLAlertView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SigmaSwiftStatistics.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>22CE57ADDA8EF312481D2BEF6910D1B8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BBFE1BEEB32EB4F4E5187EE2FC26D76</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>380B15244C4E9FC5F5681F59253B2FC4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>49A0572A63A43A9F3FD5CF5543DB8540</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5D2683A4E11C358DD3168A2E588663D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6828C2508515BC0428D6BDAA1292DC9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
